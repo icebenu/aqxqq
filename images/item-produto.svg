@@ -1,0 +1,8 @@
+                    <svg id="Componente_33_1" data-name="Componente 33 – 1" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+                        <g id="Elipse_7" data-name="Elipse 7" fill="none" stroke="#2dc6d6" stroke-width="3">
+                            <circle cx="24" cy="24" r="24" stroke="none"/>
+                            <circle cx="24" cy="24" r="22.5" fill="none"/>
+                        </g>
+                        <path id="União_4" data-name="União 4" d="M4.093,14.642.366,8.2a1,1,0,0,1,.866-1.5H2.973V1a1,1,0,0,1,1-1H5.945a1,1,0,0,1,1,1V6.7H8.686a1,1,0,0,1,.866,1.5L5.825,14.642a1,1,0,0,1-1.732,0Z" transform="translate(19.041 13.057)" fill="#2dc6d6"/>
+                        <path id="União_5" data-name="União 5" d="M17.378,3.228H0V0H1.986V1.242H17.378V0h1.986V3.228Z" transform="translate(14.317 28.697)" fill="#2dc6d6"/>
+                    </svg>
